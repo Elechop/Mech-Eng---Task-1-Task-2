@@ -40,7 +40,7 @@ The calculation done by using the rule bellow:
 `Theta = tan^-1 * (adjacent /  opposite)`
 
 ### Result:
-![](images/Max-ang.png)
+![](images/calculate.png)
 
 <a name= "3"></a>
 ## Participated in the Task: 
