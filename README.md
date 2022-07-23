@@ -16,14 +16,14 @@ The initial robot legs stick model was designed using Cinema 4D.
 
 ### The model parts heights::
 - Model Height: 64 cm.
-- Base Height: 9 cm.
-- Legs: 51 cm.
-- Feet: 4 cm.
+- Base Height: 10 cm.
+- Legs: 49 cm.
+- Feet: 5 cm.
 
 ### Results:
-![](images/SC1.png)
+![](images/1.png)
 
-![](images/SC2.png)
+![](images/2.png)
 
 
 ### Technologies Used
